@@ -5,7 +5,7 @@
 // @description  stimulate clicking login button in the login page of HUST Network
 // @author       Konrad Gerrens
 // @match        http://192.168.50.3:8080/*
-// @icon         https://github.com/MegaSuite/HUST-Network-Toolkit/blob/main/HUST-logo.png?raw=true
+// @icon         https://raw.githubusercontent.com/MegaSuite/HUST-Network-Toolkit/main/ClickStimulator/HUST-logo.png
 // ==/UserScript==
 
 (function() {
