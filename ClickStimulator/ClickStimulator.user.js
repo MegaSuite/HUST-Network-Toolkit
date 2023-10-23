@@ -17,5 +17,5 @@
     button.click()
     }
 
-    setTimeout(clickAna,1000);
+    setTimeout(clickAna,1500);
 })();
