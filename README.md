@@ -7,6 +7,10 @@
 
 ### Usage
 
-- 在`C:\Users\$USER\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup`文件夹下创建快捷方式，填入校园网认证地址，例如：`http://192.168.50.3:8080/`，命名随便，保存之后，就会在开机解锁后自动打开浏览器进入认证界面。
-- 记得打开浏览器的自动填充功能，否则无法自动填充账号密码。
+- 在`C:\Users\$USER\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup`文件夹下创建快捷方式，填入校园网认证地址，例如:`http://192.168.xx.xx:8080/`
+- 命名，保存。（开机解锁后自动打开浏览器进入认证界面。）
 - 浏览器安装插件：[Tampermonkey](https://www.tampermonkey.net/)，然后安装此脚本：[ClickStimulator](https://github.com/MegaSuite/HUST-Network-Toolkit/raw/main/ClickStimulator/ClickStimulator.user.js)
+
+### Tips
+- 记得打开浏览器的自动填充功能，否则无法自动填充账号密码。
+- 登录认证之后，会自动关闭认证页面。`2023年11月15日更新`
